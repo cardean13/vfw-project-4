@@ -1,0 +1,86 @@
+/*
+
+Yusef Hassan
+VFW 0412
+Project 3
+
+*/
+
+
+
+
+body
+{
+	background-image:url('gradient.jpg');
+	background-repeat:repeat-x;
+}
+
+h1{
+	font: 24px helvetica;
+	margin: 20px 10px;
+	padding: 10px;
+	font-weight: bold;
+	border: 1px solid black;
+	width: 250px;
+	color: #242e30;
+	background-color: #ffcc99;
+	text-align: center
+}
+
+h2{
+	font: 22px Arial;
+	margin-left: 10px;
+	color: #cfcfcf;
+}
+
+p{
+	font: 18px Arial;
+	margin-left: 10px;
+	color: white
+}
+
+a{
+	display: block;
+	font: 16px Arial;
+	margin: 20px 10px;
+	width: 200px;
+	color: #000000;
+	background-color: #ccffff;		
+	text-align: center;
+
+}
+
+a:hover{
+	color: olive;
+}
+
+legend{
+	background-color: #cfcfcf;
+	padding-top: 2px ;
+	margin-top: 20px;
+	margin-left: -13px;
+	border: 1px solid black;
+	
+}
+
+
+fieldset{
+	font: 18px times ;
+	margin: 30px 10px;
+	background: #99cc99;
+
+}
+
+label{
+	color: #000000;
+	padding-top: 10px
+}
+
+ul{
+	list-style-image: url('arrow.jpg');
+	color: red;
+	
+	
+
+}
+
