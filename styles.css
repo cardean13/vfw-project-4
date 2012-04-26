@@ -2,7 +2,7 @@
 
 Yusef Hassan
 VFW 0412
-Project 3
+Project 4
 
 */
 
@@ -11,7 +11,7 @@ Project 3
 
 body
 {
-	background-image:url('gradient.jpg');
+	background-image:url('/Users/Bioassassin/Desktop/vfw-project-4/jpgfolder/gradient.jpg');
 	background-repeat:repeat-x;
 }
 
@@ -77,7 +77,7 @@ label{
 }
 
 ul{
-	list-style-image: url('arrow.jpg');
+	list-style-image: url('/Users/Bioassassin/Desktop/vfw-project-4/jpgfolder/arrow.jpg');
 	color: red;
 	
 	

@@ -1,3 +1,8 @@
+//Yusef Hassan
+//VFW 0412
+//Project 4
+
+
 var json = {
 	"person1": {
 		"fname": ["First Name:", "Chris"],
